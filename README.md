@@ -2,7 +2,7 @@
 
 A dark-themed desktop BMI calculator written in Python with tkinter. It keeps a saved history of your results, shows where your BMI sits on a colour scale, and plots your progress over time.
 
-<!-- Add a screenshot of the app here: ![BMI calculator](screenshot.png) -->
+   ![BMI calculator](screenshot.png)
 
 ![BMI trend chart (sample data)](trend_chart_sample.png)
 
