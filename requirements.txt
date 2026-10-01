@@ -1,0 +1,2 @@
+# Optional: only needed for the TREND CHART button
+matplotlib>=3.5
