@@ -1,5 +1,7 @@
 # BMI Calculator
 
+[![tests](https://github.com/Shayanxu/BMI_calculator/actions/workflows/tests.yml/badge.svg)](https://github.com/Shayanxu/BMI_calculator/actions)
+
 A dark-themed desktop BMI calculator written in Python with tkinter. It keeps a saved history of your results, shows where your BMI sits on a colour scale, and plots your progress over time.
 
    ![BMI calculator](screenshot.png)
