@@ -44,14 +44,7 @@ The tests cover the calculation, category limits, input parsing, record formatti
 
 They also run automatically on Windows, Linux and macOS with Python 3.9, 3.12 and 3.13 through GitHub Actions (`.github/workflows/tests.yml`). The tests check the logic only, not how the window looks on each system.
 
-## Build a standalone executable
 
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed bmi_app.py
-```
-
-The result is in the `dist/` folder. Build it on the operating system you want to run it on.
 
 ## Project structure
 
